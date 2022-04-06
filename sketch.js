@@ -5,7 +5,7 @@ let reyeX,reyeY;
 let leyeX,leyeY;
 let singlePose,skeleton;
 let actor_img;
-let specs,smoke, cascos;
+let specs,smoke,cascos;
 
 function setup() {  // this function runs only once while running
     createCanvas(800, 500);
